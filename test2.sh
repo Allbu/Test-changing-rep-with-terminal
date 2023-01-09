@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "test again"
+echo "teeeeest again"
 exit;
