@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hey i'm jhon";
+echo "Testing again 'cause im jsut stupid";
 exit;
